@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: e77fe0343ee21e546a67bc6645a1d361
+timeCreated: 1452361868
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: svipopo_0
+    21300002: svipopo_1
+    21300004: svipopo_2
+    21300006: svipopo_3
+    21300008: svipopo_4
+    21300010: svipopo_5
+    21300012: svipopo_6
+    21300014: svipopo_7
+    21300016: svipopo_8
+    21300018: svipopo_9
+    21300020: svipopo_10
+    21300022: svipopo_11
+    21300024: svipopo_12
+    21300026: svipopo_13
+    21300028: svipopo_14
+    21300030: svipopo_15
+    21300032: svipopo_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: svipopo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_2
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_3
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_4
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_5
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_6
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_7
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_8
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 1414
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_12
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_13
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_14
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_15
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: svipopo_16
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 780
+        width: 418
+        height: 634
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

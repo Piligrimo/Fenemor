@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 9e30b81ed208e164abde1303f016dee0
+timeCreated: 1454519479
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bibop-kun_0
+    21300002: bibop-kun_1
+    21300004: bibop-kun_2
+    21300006: bibop-kun_3
+    21300008: bibop-kun_4
+    21300010: bibop-kun_5
+    21300012: bibop-kun_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bibop-kun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 128}
+        - {x: 76, y: 122}
+        - {x: 46, y: 244}
+        - {x: 34, y: 256}
+        - {x: -21, y: 256}
+        - {x: -35, y: 241}
+        - {x: -35, y: 3}
+        - {x: -18, y: 0}
+        - {x: 21, y: 0}
+        - {x: 119, y: 89}
+        - {x: 130, y: 114}
+        - {x: 130, y: 125}
+      - - {x: 107, y: 135}
+        - {x: 110, y: 136}
+        - {x: 110, y: 139}
+        - {x: 107, y: 140}
+        - {x: 105, y: 138}
+      - - {x: 38, y: 212}
+        - {x: 41, y: 213}
+        - {x: 41, y: 216}
+        - {x: 38, y: 217}
+        - {x: 36, y: 215}
+      - - {x: 103, y: 256}
+        - {x: 100, y: 246}
+        - {x: 102, y: 244}
+        - {x: 105, y: 244}
+        - {x: 110, y: 249}
+        - {x: 110, y: 256}
+      - - {x: -22, y: 256}
+        - {x: -23, y: 255}
+        - {x: -23, y: 252}
+        - {x: -21, y: 251}
+        - {x: -17, y: 251}
+        - {x: -16, y: 254}
+        - {x: -16, y: 256}
+    - name: bibop-kun_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 768
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 256}
+        - {x: -35, y: 256}
+        - {x: -35, y: 4}
+        - {x: -14, y: 0}
+        - {x: 25, y: 0}
+        - {x: 129, y: 65}
+        - {x: 129, y: 153}
+        - {x: 119, y: 218}
+      - - {x: 106, y: 135}
+        - {x: 109, y: 136}
+        - {x: 109, y: 139}
+        - {x: 106, y: 140}
+        - {x: 104, y: 138}
+      - - {x: 37, y: 212}
+        - {x: 40, y: 213}
+        - {x: 40, y: 216}
+        - {x: 37, y: 217}
+        - {x: 35, y: 215}
+      - - {x: 102, y: 256}
+        - {x: 99, y: 246}
+        - {x: 101, y: 244}
+        - {x: 104, y: 244}
+        - {x: 109, y: 249}
+        - {x: 109, y: 256}
+      - - {x: -23, y: 256}
+        - {x: -24, y: 255}
+        - {x: -24, y: 252}
+        - {x: -22, y: 251}
+        - {x: -18, y: 251}
+        - {x: -17, y: 254}
+        - {x: -17, y: 256}
+    - name: bibop-kun_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 768
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 128}
+        - {x: 75, y: 122}
+        - {x: 40, y: 256}
+        - {x: -35, y: 256}
+        - {x: -35, y: 0}
+        - {x: 26, y: 0}
+        - {x: 121, y: 88}
+        - {x: 129, y: 114}
+        - {x: 129, y: 125}
+      - - {x: 106, y: 135}
+        - {x: 109, y: 136}
+        - {x: 109, y: 139}
+        - {x: 106, y: 140}
+        - {x: 104, y: 138}
+      - - {x: 102, y: 256}
+        - {x: 99, y: 246}
+        - {x: 101, y: 244}
+        - {x: 104, y: 244}
+        - {x: 109, y: 249}
+        - {x: 109, y: 256}
+      - - {x: -23, y: 256}
+        - {x: -24, y: 255}
+        - {x: -24, y: 252}
+        - {x: -22, y: 251}
+        - {x: -18, y: 251}
+        - {x: -17, y: 254}
+        - {x: -17, y: 256}
+    - name: bibop-kun_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 256}
+        - {x: -38, y: 229}
+        - {x: -38, y: 0}
+        - {x: 88, y: 0}
+        - {x: 130, y: 6}
+        - {x: 130, y: 256}
+      - - {x: 107, y: 135}
+        - {x: 110, y: 136}
+        - {x: 110, y: 139}
+        - {x: 107, y: 140}
+        - {x: 105, y: 138}
+      - - {x: 23, y: 145}
+        - {x: 25, y: 143}
+        - {x: 28, y: 144}
+        - {x: 28, y: 147}
+        - {x: 26, y: 149}
+        - {x: 23, y: 148}
+      - - {x: 102, y: 256}
+        - {x: 100, y: 254}
+        - {x: 100, y: 244}
+        - {x: 105, y: 244}
+        - {x: 110, y: 249}
+        - {x: 110, y: 256}
+      - - {x: -22, y: 256}
+        - {x: -23, y: 255}
+        - {x: -23, y: 252}
+        - {x: -21, y: 251}
+        - {x: -17, y: 251}
+        - {x: -16, y: 254}
+        - {x: -16, y: 256}
+    - name: bibop-kun_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 512
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 256}
+        - {x: -35, y: 0}
+        - {x: 82, y: 0}
+        - {x: 129, y: 4}
+        - {x: 129, y: 244}
+        - {x: 125, y: 256}
+      - - {x: 106, y: 135}
+        - {x: 109, y: 136}
+        - {x: 109, y: 139}
+        - {x: 106, y: 140}
+        - {x: 104, y: 138}
+      - - {x: 22, y: 145}
+        - {x: 24, y: 143}
+        - {x: 27, y: 144}
+        - {x: 27, y: 147}
+        - {x: 25, y: 149}
+        - {x: 22, y: 148}
+      - - {x: 102, y: 256}
+        - {x: 99, y: 246}
+        - {x: 101, y: 244}
+        - {x: 104, y: 244}
+        - {x: 109, y: 249}
+        - {x: 109, y: 256}
+      - - {x: -23, y: 256}
+        - {x: -24, y: 255}
+        - {x: -24, y: 252}
+        - {x: -22, y: 251}
+        - {x: -18, y: 251}
+        - {x: -17, y: 254}
+        - {x: -17, y: 256}
+    - name: bibop-kun_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 512
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 0}
+        - {x: 64, y: 0}
+        - {x: 129, y: 4}
+        - {x: 129, y: 232}
+        - {x: 121, y: 256}
+        - {x: -35, y: 256}
+        - {x: -35, y: 3}
+      - - {x: 81, y: 58}
+        - {x: 77, y: 56}
+        - {x: 77, y: 49}
+        - {x: 79, y: 47}
+        - {x: 82, y: 47}
+        - {x: 85, y: 51}
+        - {x: 85, y: 58}
+      - - {x: 106, y: 135}
+        - {x: 109, y: 136}
+        - {x: 109, y: 139}
+        - {x: 106, y: 140}
+        - {x: 104, y: 138}
+      - - {x: 22, y: 145}
+        - {x: 24, y: 143}
+        - {x: 27, y: 144}
+        - {x: 27, y: 147}
+        - {x: 25, y: 149}
+        - {x: 22, y: 148}
+      - - {x: 102, y: 256}
+        - {x: 99, y: 246}
+        - {x: 101, y: 244}
+        - {x: 104, y: 244}
+        - {x: 109, y: 249}
+        - {x: 109, y: 256}
+      - - {x: -23, y: 256}
+        - {x: -24, y: 255}
+        - {x: -24, y: 252}
+        - {x: -22, y: 251}
+        - {x: -18, y: 251}
+        - {x: -17, y: 254}
+        - {x: -17, y: 256}
+    - name: bibop-kun_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: 129}
+        - {x: 73, y: 128}
+        - {x: 42, y: 256}
+        - {x: -26, y: 256}
+        - {x: -34, y: 242}
+        - {x: -34, y: 12}
+        - {x: -24, y: 0}
+        - {x: 29, y: 0}
+        - {x: 38, y: 3}
+        - {x: 123, y: 86}
+        - {x: 130, y: 104}
+      - - {x: 82, y: 58}
+        - {x: 78, y: 55}
+        - {x: 78, y: 49}
+        - {x: 80, y: 47}
+        - {x: 84, y: 47}
+        - {x: 86, y: 50}
+        - {x: 86, y: 58}
+      - - {x: 107, y: 135}
+        - {x: 110, y: 136}
+        - {x: 110, y: 139}
+        - {x: 107, y: 140}
+        - {x: 105, y: 138}
+      - - {x: 23, y: 145}
+        - {x: 25, y: 143}
+        - {x: 28, y: 144}
+        - {x: 28, y: 147}
+        - {x: 26, y: 149}
+        - {x: 23, y: 148}
+      - - {x: 103, y: 256}
+        - {x: 100, y: 246}
+        - {x: 102, y: 244}
+        - {x: 105, y: 244}
+        - {x: 110, y: 249}
+        - {x: 110, y: 256}
+      - - {x: -22, y: 256}
+        - {x: -23, y: 255}
+        - {x: -23, y: 252}
+        - {x: -21, y: 251}
+        - {x: -17, y: 251}
+        - {x: -16, y: 254}
+        - {x: -16, y: 256}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 8c828312460cb314f8572726556cf139
+timeCreated: 1459276604
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SnezhokSboku2016_147kh223_0
+    21300002: SnezhokSboku2016_147kh223_1
+    21300004: SnezhokSboku2016_147kh223_2
+    21300006: SnezhokSboku2016_147kh223_3
+    21300008: SnezhokSboku2016_147kh223_4
+    21300010: SnezhokSboku2016_147kh223_5
+    21300012: SnezhokSboku2016_147kh223_6
+    21300014: SnezhokSboku2016_147kh223_7
+    21300016: SnezhokSboku2016_147kh223_8
+    21300018: SnezhokSboku2016_147kh223_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SnezhokSboku2016_147kh223_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 206}
+        - {x: -32.5, y: 177}
+        - {x: -34.5, y: 150}
+        - {x: -34.5, y: 9}
+        - {x: 34.5, y: 9}
+        - {x: 34.5, y: 184}
+        - {x: 15.5, y: 206}
+    - name: SnezhokSboku2016_147kh223_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 289
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 207}
+        - {x: -34.5, y: 193}
+        - {x: -34.5, y: 9}
+        - {x: 30.5, y: 9}
+        - {x: 34.5, y: 13}
+        - {x: 34.5, y: 180}
+        - {x: 20.5, y: 207}
+    - name: SnezhokSboku2016_147kh223_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 289
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 207}
+        - {x: -11.5, y: 207}
+        - {x: -34.5, y: 185}
+        - {x: -34.5, y: 9}
+        - {x: 42.5, y: 9}
+        - {x: 43.5, y: 18}
+        - {x: 43.5, y: 176}
+        - {x: 30.5, y: 196}
+    - name: SnezhokSboku2016_147kh223_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 289
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 208}
+        - {x: -51.5, y: 150}
+        - {x: -51.5, y: 61}
+        - {x: -43.5, y: 11}
+        - {x: -38.5, y: 9}
+        - {x: 43.5, y: 9}
+        - {x: 58.5, y: 104}
+        - {x: 58.5, y: 163}
+        - {x: 19.5, y: 208}
+    - name: SnezhokSboku2016_147kh223_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 289
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 208}
+        - {x: -47.5, y: 153}
+        - {x: -47.5, y: 80}
+        - {x: -35.5, y: 16}
+        - {x: -32.5, y: 9}
+        - {x: 30.5, y: 9}
+        - {x: 46.5, y: 12}
+        - {x: 54.5, y: 54}
+        - {x: 54.5, y: 166}
+        - {x: 27.5, y: 208}
+    - name: SnezhokSboku2016_147kh223_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 289
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 210}
+        - {x: -50.5, y: 161}
+        - {x: -50.5, y: 59}
+        - {x: -33.5, y: 9}
+        - {x: 43.5, y: 9}
+        - {x: 61.5, y: 57}
+        - {x: 61.5, y: 170}
+        - {x: 34.5, y: 210}
+    - name: SnezhokSboku2016_147kh223_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 210}
+        - {x: -55.5, y: 163}
+        - {x: -55.5, y: 59}
+        - {x: -31.5, y: 9}
+        - {x: 45.5, y: 9}
+        - {x: 70.5, y: 55}
+        - {x: 70.5, y: 162}
+        - {x: 21.5, y: 210}
+    - name: SnezhokSboku2016_147kh223_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 211}
+        - {x: -11.5, y: 211}
+        - {x: -22.5, y: 207}
+        - {x: -32.5, y: 175}
+        - {x: -34.5, y: 149}
+        - {x: -34.5, y: 15}
+        - {x: -31.5, y: 9}
+        - {x: 28.5, y: 9}
+        - {x: 35.5, y: 12}
+        - {x: 35.5, y: 166}
+        - {x: 28.5, y: 199}
+    - name: SnezhokSboku2016_147kh223_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 66
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 209}
+        - {x: -55.5, y: 164}
+        - {x: -55.5, y: 55}
+        - {x: -36.5, y: 9}
+        - {x: 32.5, y: 9}
+        - {x: 70.5, y: 112}
+        - {x: 70.5, y: 172}
+        - {x: 21.5, y: 209}
+    - name: SnezhokSboku2016_147kh223_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 66
+        width: 147
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 206}
+        - {x: -30.5, y: 206}
+        - {x: -55.5, y: 170}
+        - {x: -55.5, y: 77}
+        - {x: -41.5, y: 12}
+        - {x: -32.5, y: 9}
+        - {x: 27.5, y: 9}
+        - {x: 35.5, y: 17}
+        - {x: 70.5, y: 78}
+        - {x: 70.5, y: 178}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

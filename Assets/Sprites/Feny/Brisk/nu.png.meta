@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 540b7885d3a66164d92778ee09c0f171
+timeCreated: 1459280405
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nu_0
+    21300002: nu_1
+    21300004: nu_2
+    21300006: nu_3
+    21300008: nu_4
+    21300010: nu_5
+    21300012: nu_6
+    21300014: nu_7
+    21300016: nu_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 218}
+        - {x: -36, y: 204}
+        - {x: -39, y: 180}
+        - {x: -39, y: 10}
+        - {x: -30, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 15}
+        - {x: 31, y: 215}
+        - {x: 18, y: 218}
+    - name: nu_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 219}
+        - {x: -39, y: 187}
+        - {x: -39, y: 3}
+        - {x: -33, y: 0}
+        - {x: 29, y: 0}
+        - {x: 31, y: 1}
+        - {x: 31, y: 215}
+        - {x: 30, y: 219}
+    - name: nu_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 6}
+        - {x: 10, y: 4}
+        - {x: 9, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 189}
+        - {x: 25, y: 221}
+        - {x: -29, y: 221}
+        - {x: -42, y: 163}
+        - {x: -42, y: 3}
+        - {x: -35, y: 0}
+        - {x: 8, y: 0}
+        - {x: 7, y: 2}
+        - {x: 12, y: 5}
+      - - {x: -32, y: 5}
+        - {x: -29, y: 6}
+        - {x: -29, y: 9}
+        - {x: -32, y: 10}
+        - {x: -34, y: 8}
+    - name: nu_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 221}
+        - {x: -36, y: 207}
+        - {x: -41, y: 153}
+        - {x: -41, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 214}
+        - {x: 19, y: 221}
+    - name: nu_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 222}
+        - {x: -43, y: 202}
+        - {x: -44, y: 190}
+        - {x: -44, y: 10}
+        - {x: -33, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 222}
+    - name: nu_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 223}
+        - {x: -21, y: 223}
+        - {x: -37, y: 217}
+        - {x: -44, y: 57}
+        - {x: -44, y: 11}
+        - {x: -34, y: 0}
+        - {x: 29, y: 0}
+        - {x: 36, y: 1}
+        - {x: 37, y: 5}
+        - {x: 37, y: 75}
+        - {x: 27, y: 215}
+    - name: nu_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 282
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 16}
+        - {x: -34, y: 0}
+        - {x: 37, y: 0}
+        - {x: 37, y: 207}
+        - {x: 36, y: 222}
+        - {x: 34, y: 224}
+        - {x: -23, y: 224}
+        - {x: -44, y: 212}
+    - name: nu_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 218}
+        - {x: -36, y: 204}
+        - {x: -39, y: 180}
+        - {x: -39, y: 10}
+        - {x: -30, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 15}
+        - {x: 31, y: 215}
+        - {x: 18, y: 218}
+    - name: nu_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 144
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 218}
+        - {x: -36, y: 204}
+        - {x: -39, y: 180}
+        - {x: -39, y: 10}
+        - {x: -30, y: 0}
+        - {x: 19, y: 0}
+        - {x: 31, y: 15}
+        - {x: 31, y: 215}
+        - {x: 18, y: 218}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

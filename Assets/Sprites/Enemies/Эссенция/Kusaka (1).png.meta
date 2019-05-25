@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: e9168df8a98d59648a8d67a4ca30d739
+timeCreated: 1452881808
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kusaka (1)_0
+    21300002: Kusaka (1)_1
+    21300004: Kusaka (1)_2
+    21300006: Kusaka (1)_3
+    21300008: Kusaka (1)_4
+    21300010: Kusaka (1)_5
+    21300012: Kusaka (1)_6
+    21300014: Kusaka (1)_7
+    21300016: Kusaka (1)_8
+    21300018: Kusaka (1)_9
+    21300020: Kusaka (1)_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kusaka (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 91
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 841
+        width: 90
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 841
+        width: 87
+        height: 51
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 841
+        width: 87
+        height: 141
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 841
+        width: 92
+        height: 183
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 658
+        width: 85
+        height: 183
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 658
+        width: 86
+        height: 183
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 656
+        width: 93
+        height: 170
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 658
+        width: 98
+        height: 125
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_9
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 658
+        width: 98
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Kusaka (1)_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 475
+        width: 98
+        height: 60
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

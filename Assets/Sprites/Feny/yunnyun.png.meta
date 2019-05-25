@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: f2c876d750983094f8b7b00f33828472
+timeCreated: 1454520002
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yunnyun_0
+    21300002: yunnyun_1
+    21300004: yunnyun_2
+    21300006: yunnyun_3
+    21300008: yunnyun_4
+    21300010: yunnyun_5
+    21300012: yunnyun_6
+    21300014: yunnyun_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: yunnyun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 0}
+        - {x: 108, y: 0}
+        - {x: 133, y: 72}
+        - {x: 133, y: 234}
+        - {x: 68, y: 256}
+        - {x: -40, y: 256}
+        - {x: -40, y: 91}
+        - {x: -30, y: 0}
+        - {x: -11, y: 0}
+        - {x: -10, y: 2}
+        - {x: -10, y: 11}
+        - {x: -4, y: 5}
+    - name: yunnyun_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 768
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 130}
+        - {x: 82, y: 128}
+        - {x: 69, y: 121}
+        - {x: 41, y: 218}
+        - {x: 22, y: 256}
+        - {x: -40, y: 256}
+        - {x: -40, y: 15}
+        - {x: -39, y: 5}
+        - {x: 40, y: 5}
+        - {x: 129, y: 98}
+        - {x: 133, y: 111}
+        - {x: 133, y: 127}
+    - name: yunnyun_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 768
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 256}
+        - {x: -42, y: 256}
+        - {x: -44, y: 255}
+        - {x: -44, y: 66}
+        - {x: -34, y: 5}
+        - {x: 40, y: 5}
+        - {x: 129, y: 98}
+        - {x: 133, y: 100}
+        - {x: 133, y: 162}
+    - name: yunnyun_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 256}
+        - {x: -39, y: 256}
+        - {x: -39, y: 38}
+        - {x: -36, y: 5}
+        - {x: 40, y: 5}
+        - {x: 129, y: 98}
+        - {x: 133, y: 109}
+        - {x: 133, y: 132}
+    - name: yunnyun_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 512
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 256}
+        - {x: -40, y: 256}
+        - {x: -40, y: 66}
+        - {x: -20, y: 1}
+        - {x: -9, y: 11}
+        - {x: -5, y: 12}
+        - {x: -7, y: 11}
+        - {x: -10, y: 6}
+        - {x: 2, y: 0}
+        - {x: 28, y: 0}
+        - {x: 34, y: 1}
+        - {x: 106, y: 75}
+        - {x: 133, y: 110}
+        - {x: 133, y: 194}
+    - name: yunnyun_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 512
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 256}
+        - {x: -39, y: 256}
+        - {x: -39, y: 59}
+        - {x: -21, y: 8}
+        - {x: -8, y: 5}
+        - {x: 41, y: 5}
+        - {x: 133, y: 107}
+        - {x: 133, y: 126}
+        - {x: 129, y: 132}
+    - name: yunnyun_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: 136}
+        - {x: 66, y: 125}
+        - {x: 31, y: 246}
+        - {x: 20, y: 256}
+        - {x: -38, y: 256}
+        - {x: -38, y: 78}
+        - {x: -33, y: 15}
+        - {x: -20, y: 10}
+        - {x: -9, y: 11}
+        - {x: -5, y: 12}
+        - {x: -7, y: 11}
+        - {x: -11, y: 6}
+        - {x: -6, y: 5}
+        - {x: 40, y: 5}
+        - {x: 129, y: 98}
+        - {x: 133, y: 111}
+        - {x: 133, y: 131}
+    - name: yunnyun_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 256
+        width: 270
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 256}
+        - {x: -39, y: 54}
+        - {x: -24, y: 9}
+        - {x: -10, y: 5}
+        - {x: -7, y: 10}
+        - {x: -5, y: 12}
+        - {x: -7, y: 11}
+        - {x: -7, y: 8}
+        - {x: -4, y: 5}
+        - {x: 65, y: 5}
+        - {x: 133, y: 58}
+        - {x: 133, y: 225}
+        - {x: 109, y: 256}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

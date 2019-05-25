@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 3291dc5aa8b1da74a8204f1fdbf2eebc
+timeCreated: 1454848202
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mister_plyov_461kh385_0
+    21300002: mister_plyov_461kh385_1
+    21300004: mister_plyov_461kh385_2
+    21300006: mister_plyov_461kh385_3
+    21300008: mister_plyov_461kh385_4
+    21300010: mister_plyov_461kh385_5
+    21300012: mister_plyov_461kh385_6
+    21300014: mister_plyov_461kh385_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mister_plyov_461kh385_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 210.5, y: 14}
+        - {x: 211.5, y: 12}
+        - {x: 214.5, y: 12}
+        - {x: 216.5, y: 13}
+        - {x: 216.5, y: 17}
+        - {x: 213.5, y: 20}
+        - {x: 210.5, y: 19}
+      - - {x: 214.5, y: 58}
+        - {x: 213.5, y: 53}
+        - {x: 213.5, y: 48}
+        - {x: 215.5, y: 47}
+        - {x: 219.5, y: 47}
+        - {x: 220.5, y: 53}
+        - {x: 220.5, y: 58}
+        - {x: 218.5, y: 59}
+      - - {x: 105.5, y: 141}
+        - {x: 113.5, y: 164}
+        - {x: 113.5, y: 186}
+        - {x: 101.5, y: 196}
+        - {x: 109.5, y: 217}
+        - {x: 88.5, y: 218}
+        - {x: 78.5, y: 283}
+        - {x: 66.5, y: 320}
+        - {x: 23.5, y: 359}
+        - {x: -48.5, y: 359}
+        - {x: -84.5, y: 338}
+        - {x: -111.5, y: 296}
+        - {x: -128.5, y: 233}
+        - {x: -148.5, y: 116}
+        - {x: -157.5, y: 111}
+        - {x: -166.5, y: 99}
+        - {x: -166.5, y: 85}
+        - {x: -150.5, y: 73}
+        - {x: -104.5, y: 60}
+        - {x: -78.5, y: 59}
+        - {x: 40.5, y: 59}
+        - {x: 53.5, y: 61}
+        - {x: 93.5, y: 93}
+        - {x: 103.5, y: 106}
+    - name: mister_plyov_461kh385_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 639
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101.5, y: 100}
+        - {x: 114.5, y: 153}
+        - {x: 114.5, y: 185}
+        - {x: 111.5, y: 204}
+        - {x: 88.5, y: 219}
+        - {x: 86.5, y: 292}
+        - {x: 70.5, y: 327}
+        - {x: 59.5, y: 337}
+        - {x: 39.5, y: 352}
+        - {x: 19.5, y: 358}
+        - {x: -18.5, y: 358}
+        - {x: -31.5, y: 356}
+        - {x: -66.5, y: 336}
+        - {x: -83.5, y: 319}
+        - {x: -103.5, y: 286}
+        - {x: -126.5, y: 191}
+        - {x: -134.5, y: 142}
+        - {x: -157.5, y: 102}
+        - {x: -157.5, y: 78}
+        - {x: -141.5, y: 68}
+        - {x: -47.5, y: 53}
+        - {x: 11.5, y: 53}
+        - {x: 40.5, y: 55}
+        - {x: 55.5, y: 62}
+        - {x: 68.5, y: 83}
+    - name: mister_plyov_461kh385_2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 639
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.5, y: 151}
+        - {x: 101.5, y: 164}
+        - {x: 101.5, y: 199}
+        - {x: 94.5, y: 219}
+        - {x: 71.5, y: 229}
+        - {x: 54.5, y: 288}
+        - {x: 40.5, y: 331}
+        - {x: 21.5, y: 352}
+        - {x: -7.5, y: 368}
+        - {x: -56.5, y: 368}
+        - {x: -91.5, y: 356}
+        - {x: -129.5, y: 323}
+        - {x: -148.5, y: 284}
+        - {x: -154.5, y: 251}
+        - {x: -155.5, y: 218}
+        - {x: -149.5, y: 142}
+        - {x: -163.5, y: 119}
+        - {x: -167.5, y: 110}
+        - {x: -167.5, y: 88}
+        - {x: -163.5, y: 77}
+        - {x: -148.5, y: 71}
+        - {x: -82.5, y: 56}
+        - {x: -43.5, y: 49}
+        - {x: 36.5, y: 49}
+        - {x: 54.5, y: 57}
+        - {x: 98.5, y: 99}
+        - {x: 99.5, y: 121}
+    - name: mister_plyov_461kh385_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 639
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.5, y: 112}
+        - {x: 94.5, y: 114}
+        - {x: 74.5, y: 124}
+        - {x: 38.5, y: 173}
+        - {x: 19.5, y: 174}
+        - {x: 47.5, y: 219}
+        - {x: 40.5, y: 260}
+        - {x: 0.5, y: 276}
+        - {x: -44.5, y: 334}
+        - {x: -76.5, y: 351}
+        - {x: -87.5, y: 353}
+        - {x: -125.5, y: 353}
+        - {x: -151.5, y: 346}
+        - {x: -195.5, y: 310}
+        - {x: -210.5, y: 268}
+        - {x: -210.5, y: 214}
+        - {x: -209.5, y: 205}
+        - {x: -173.5, y: 128}
+        - {x: -164.5, y: 65}
+        - {x: -124.5, y: 70}
+        - {x: -40.5, y: 46}
+        - {x: 25.5, y: 46}
+        - {x: 53.5, y: 49}
+        - {x: 79.5, y: 86}
+        - {x: 95.5, y: 88}
+        - {x: 99.5, y: 97}
+    - name: mister_plyov_461kh385_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 171}
+        - {x: 7.5, y: 186}
+        - {x: -8.5, y: 192}
+        - {x: 21.5, y: 194}
+        - {x: 26.5, y: 204}
+        - {x: 25.5, y: 210}
+        - {x: 29.5, y: 240}
+        - {x: 7.5, y: 271}
+        - {x: -90.5, y: 310}
+        - {x: -164.5, y: 310}
+        - {x: -218.5, y: 270}
+        - {x: -230.5, y: 254}
+        - {x: -230.5, y: 155}
+        - {x: -166.5, y: 85}
+        - {x: -152.5, y: 76}
+        - {x: -27.5, y: 55}
+        - {x: 44.5, y: 55}
+        - {x: 95.5, y: 93}
+        - {x: 95.5, y: 108}
+        - {x: 85.5, y: 114}
+    - name: mister_plyov_461kh385_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 254
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91.5, y: 130}
+        - {x: 114.5, y: 156}
+        - {x: 129.5, y: 175}
+        - {x: 129.5, y: 218}
+        - {x: 96.5, y: 244}
+        - {x: 76.5, y: 269}
+        - {x: 58.5, y: 278}
+        - {x: 16.5, y: 338}
+        - {x: 8.5, y: 342}
+        - {x: -32.5, y: 342}
+        - {x: -103.5, y: 326}
+        - {x: -131.5, y: 312}
+        - {x: -168.5, y: 282}
+        - {x: -177.5, y: 267}
+        - {x: -182.5, y: 241}
+        - {x: -182.5, y: 221}
+        - {x: -179.5, y: 195}
+        - {x: -174.5, y: 169}
+        - {x: -164.5, y: 107}
+        - {x: -174.5, y: 76}
+        - {x: -162.5, y: 67}
+        - {x: -114.5, y: 74}
+        - {x: -64.5, y: 66}
+        - {x: 0.5, y: 55}
+        - {x: 31.5, y: 55}
+        - {x: 61.5, y: 75}
+        - {x: 110.5, y: 99}
+        - {x: 114.5, y: 109}
+    - name: mister_plyov_461kh385_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 254
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.5, y: 141}
+        - {x: 123.5, y: 184}
+        - {x: 121.5, y: 197}
+        - {x: 111.5, y: 210}
+        - {x: 89.5, y: 283}
+        - {x: 75.5, y: 310}
+        - {x: 67.5, y: 322}
+        - {x: 14.5, y: 347}
+        - {x: 2.5, y: 348}
+        - {x: -37.5, y: 348}
+        - {x: -52.5, y: 345}
+        - {x: -86.5, y: 326}
+        - {x: -103.5, y: 305}
+        - {x: -129.5, y: 262}
+        - {x: -143.5, y: 207}
+        - {x: -138.5, y: 147}
+        - {x: -152.5, y: 117}
+        - {x: -152.5, y: 76}
+        - {x: -140.5, y: 71}
+        - {x: -93.5, y: 72}
+        - {x: -69.5, y: 67}
+        - {x: -44.5, y: 66}
+        - {x: 40.5, y: 66}
+        - {x: 80.5, y: 87}
+        - {x: 92.5, y: 97}
+        - {x: 121.5, y: 130}
+    - name: mister_plyov_461kh385_7
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 254
+        width: 461
+        height: 385
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.5, y: 111}
+        - {x: 113.5, y: 152}
+        - {x: 113.5, y: 191}
+        - {x: 109.5, y: 203}
+        - {x: 86.5, y: 213}
+        - {x: 62.5, y: 270}
+        - {x: 44.5, y: 323}
+        - {x: 13.5, y: 346}
+        - {x: -1.5, y: 352}
+        - {x: -62.5, y: 352}
+        - {x: -94.5, y: 336}
+        - {x: -127.5, y: 285}
+        - {x: -135.5, y: 241}
+        - {x: -140.5, y: 200}
+        - {x: -143.5, y: 140}
+        - {x: -157.5, y: 105}
+        - {x: -157.5, y: 78}
+        - {x: -153.5, y: 65}
+        - {x: -65.5, y: 61}
+        - {x: 16.5, y: 61}
+        - {x: 49.5, y: 71}
+        - {x: 69.5, y: 82}
+        - {x: 95.5, y: 101}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

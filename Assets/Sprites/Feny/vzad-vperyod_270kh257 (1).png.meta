@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: d27329f11c0c9cb47a2e0aa5e49eb28e
+timeCreated: 1461436986
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vzad-vperyod_270kh257 (1)_0
+    21300002: vzad-vperyod_270kh257 (1)_1
+    21300004: vzad-vperyod_270kh257 (1)_2
+    21300006: vzad-vperyod_270kh257 (1)_3
+    21300008: vzad-vperyod_270kh257 (1)_4
+    21300010: vzad-vperyod_270kh257 (1)_5
+    21300012: vzad-vperyod_270kh257 (1)_6
+    21300014: vzad-vperyod_270kh257 (1)_7
+    21300016: vzad-vperyod_270kh257 (1)_8
+    21300018: vzad-vperyod_270kh257 (1)_9
+    21300020: vzad-vperyod_270kh257 (1)_10
+    21300022: vzad-vperyod_270kh257 (1)_11
+    21300024: vzad-vperyod_270kh257 (1)_12
+    21300026: vzad-vperyod_270kh257 (1)_13
+    21300028: vzad-vperyod_270kh257 (1)_14
+    21300030: vzad-vperyod_270kh257 (1)_15
+    21300032: vzad-vperyod_270kh257 (1)_16
+    21300034: vzad-vperyod_270kh257 (1)_17
+    21300036: vzad-vperyod_270kh257 (1)_18
+    21300038: vzad-vperyod_270kh257 (1)_19
+    21300040: vzad-vperyod_270kh257 (1)_20
+    21300042: vzad-vperyod_270kh257 (1)_21
+    21300044: vzad-vperyod_270kh257 (1)_22
+    21300046: vzad-vperyod_270kh257 (1)_23
+    21300048: vzad-vperyod_270kh257 (1)_24
+    21300050: vzad-vperyod_270kh257 (1)_25
+    21300052: vzad-vperyod_270kh257 (1)_26
+    21300054: vzad-vperyod_270kh257 (1)_27
+    21300056: vzad-vperyod_270kh257 (1)_28
+    21300058: vzad-vperyod_270kh257 (1)_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: vzad-vperyod_270kh257 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 257}
+        - {x: -41, y: 233}
+        - {x: -41, y: 55}
+        - {x: -34, y: 0}
+        - {x: 67, y: 0}
+        - {x: 135, y: 101}
+        - {x: 135, y: 191}
+        - {x: 30, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 131}
+        - {x: 42, y: 95}
+        - {x: 46, y: 109}
+        - {x: 48, y: 217}
+        - {x: 21, y: 257}
+        - {x: -29, y: 257}
+        - {x: -41, y: 243}
+        - {x: -41, y: 77}
+        - {x: -34, y: 0}
+        - {x: 67, y: 0}
+        - {x: 135, y: 101}
+        - {x: 135, y: 121}
+        - {x: 132, y: 128}
+    - name: vzad-vperyod_270kh257 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: 128}
+        - {x: 91, y: 131}
+        - {x: 42, y: 95}
+        - {x: 47, y: 100}
+        - {x: 42, y: 175}
+        - {x: 36, y: 254}
+        - {x: 22, y: 257}
+        - {x: -41, y: 257}
+        - {x: -41, y: 58}
+        - {x: -22, y: 0}
+        - {x: 40, y: 0}
+        - {x: 56, y: 12}
+        - {x: 135, y: 103}
+        - {x: 135, y: 121}
+    - name: vzad-vperyod_270kh257 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: 128}
+        - {x: 92, y: 127}
+        - {x: 72, y: 117}
+        - {x: 45, y: 92}
+        - {x: 34, y: 80}
+        - {x: 46, y: 100}
+        - {x: 46, y: 141}
+        - {x: 37, y: 216}
+        - {x: 29, y: 247}
+        - {x: 22, y: 257}
+        - {x: -41, y: 257}
+        - {x: -41, y: 48}
+        - {x: -22, y: 0}
+        - {x: 40, y: 0}
+        - {x: 56, y: 12}
+        - {x: 135, y: 103}
+        - {x: 135, y: 121}
+    - name: vzad-vperyod_270kh257 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 131}
+        - {x: 42, y: 95}
+        - {x: 44, y: 101}
+        - {x: 40, y: 173}
+        - {x: 38, y: 253}
+        - {x: 28, y: 257}
+        - {x: -39, y: 257}
+        - {x: -40, y: 252}
+        - {x: -40, y: 23}
+        - {x: -35, y: 0}
+        - {x: 67, y: 0}
+        - {x: 135, y: 101}
+        - {x: 135, y: 121}
+        - {x: 132, y: 128}
+    - name: vzad-vperyod_270kh257 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 257}
+        - {x: -40, y: 252}
+        - {x: -40, y: 70}
+        - {x: -34, y: 0}
+        - {x: 67, y: 0}
+        - {x: 135, y: 101}
+        - {x: 135, y: 159}
+        - {x: 34, y: 257}
+      - - {x: -135, y: 110}
+        - {x: -132, y: 111}
+        - {x: -132, y: 118}
+        - {x: -134, y: 120}
+        - {x: -135, y: 120}
+    - name: vzad-vperyod_270kh257 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1791
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 257}
+        - {x: -40, y: 254}
+        - {x: -40, y: 56}
+        - {x: -34, y: 0}
+        - {x: 67, y: 0}
+        - {x: 135, y: 101}
+        - {x: 135, y: 156}
+        - {x: 30, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 242}
+        - {x: 23, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 24}
+        - {x: -35, y: 0}
+        - {x: 75, y: 0}
+        - {x: 88, y: 2}
+        - {x: 135, y: 99}
+        - {x: 135, y: 127}
+        - {x: 91, y: 131}
+    - name: vzad-vperyod_270kh257 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 124}
+        - {x: 91, y: 134}
+        - {x: 72, y: 117}
+        - {x: 44, y: 245}
+        - {x: 17, y: 257}
+        - {x: -31, y: 257}
+        - {x: -40, y: 240}
+        - {x: -40, y: 0}
+        - {x: 44, y: 0}
+        - {x: 82, y: 37}
+        - {x: 128, y: 99}
+        - {x: 135, y: 109}
+    - name: vzad-vperyod_270kh257 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 124}
+        - {x: 91, y: 134}
+        - {x: 72, y: 117}
+        - {x: 49, y: 220}
+        - {x: 24, y: 257}
+        - {x: -26, y: 257}
+        - {x: -40, y: 243}
+        - {x: -40, y: 86}
+        - {x: -28, y: 0}
+        - {x: 44, y: 0}
+        - {x: 82, y: 37}
+        - {x: 128, y: 99}
+        - {x: 135, y: 109}
+    - name: vzad-vperyod_270kh257 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 257}
+        - {x: -40, y: 241}
+        - {x: -40, y: 27}
+        - {x: -26, y: 0}
+        - {x: 54, y: 0}
+        - {x: 135, y: 42}
+        - {x: 135, y: 207}
+        - {x: 100, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 132}
+        - {x: 38, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 49}
+        - {x: -22, y: 0}
+        - {x: 44, y: 0}
+        - {x: 82, y: 37}
+        - {x: 128, y: 99}
+        - {x: 135, y: 109}
+    - name: vzad-vperyod_270kh257 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 257}
+        - {x: -39, y: 0}
+        - {x: 47, y: 0}
+        - {x: 135, y: 65}
+        - {x: 135, y: 165}
+        - {x: 79, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1534
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: 128}
+        - {x: 87, y: 145}
+        - {x: 35, y: 252}
+        - {x: 16, y: 257}
+        - {x: -29, y: 257}
+        - {x: -39, y: 251}
+        - {x: -39, y: 60}
+        - {x: -22, y: 0}
+        - {x: 36, y: 0}
+        - {x: 67, y: 27}
+        - {x: 135, y: 102}
+        - {x: 135, y: 121}
+      - - {x: -135, y: 110}
+        - {x: -132, y: 111}
+        - {x: -132, y: 118}
+        - {x: -134, y: 120}
+        - {x: -135, y: 120}
+    - name: vzad-vperyod_270kh257 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 257}
+        - {x: -40, y: 99}
+        - {x: -33, y: 3}
+        - {x: -24, y: 0}
+        - {x: 41, y: 0}
+        - {x: 135, y: 98}
+        - {x: 135, y: 181}
+        - {x: 26, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 92}
+        - {x: 46, y: 154}
+        - {x: 32, y: 250}
+        - {x: 15, y: 257}
+        - {x: -29, y: 257}
+        - {x: -40, y: 244}
+        - {x: -40, y: 79}
+        - {x: -22, y: 0}
+        - {x: 42, y: 0}
+        - {x: 135, y: 102}
+        - {x: 135, y: 125}
+        - {x: 91, y: 134}
+    - name: vzad-vperyod_270kh257 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 18}
+        - {x: -37, y: 0}
+        - {x: -34, y: 0}
+        - {x: -14, y: 3}
+        - {x: -8, y: 3}
+        - {x: -14, y: 3}
+        - {x: -16, y: 1}
+        - {x: -16, y: 0}
+        - {x: 49, y: 0}
+        - {x: 135, y: 60}
+        - {x: 135, y: 176}
+        - {x: 114, y: 210}
+    - name: vzad-vperyod_270kh257 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 109}
+        - {x: 135, y: 124}
+        - {x: 91, y: 134}
+        - {x: 72, y: 117}
+        - {x: 37, y: 255}
+        - {x: 34, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 0}
+        - {x: -20, y: 0}
+        - {x: -14, y: 3}
+        - {x: -8, y: 3}
+        - {x: -14, y: 3}
+        - {x: -16, y: 1}
+        - {x: -16, y: 0}
+        - {x: 36, y: 0}
+        - {x: 56, y: 12}
+        - {x: 79, y: 39}
+        - {x: 128, y: 99}
+    - name: vzad-vperyod_270kh257 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 139}
+        - {x: 80, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 61}
+        - {x: -22, y: 0}
+        - {x: -20, y: 0}
+        - {x: -14, y: 3}
+        - {x: -8, y: 3}
+        - {x: -14, y: 3}
+        - {x: -16, y: 1}
+        - {x: -16, y: 0}
+        - {x: 36, y: 0}
+        - {x: 56, y: 12}
+        - {x: 79, y: 39}
+        - {x: 135, y: 84}
+    - name: vzad-vperyod_270kh257 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 109}
+        - {x: 135, y: 124}
+        - {x: 91, y: 134}
+        - {x: 22, y: 257}
+        - {x: -29, y: 257}
+        - {x: -40, y: 254}
+        - {x: -40, y: 51}
+        - {x: -33, y: 2}
+        - {x: -14, y: 3}
+        - {x: -8, y: 3}
+        - {x: -14, y: 3}
+        - {x: -16, y: 1}
+        - {x: -16, y: 0}
+        - {x: 36, y: 0}
+        - {x: 56, y: 12}
+        - {x: 79, y: 39}
+        - {x: 128, y: 99}
+    - name: vzad-vperyod_270kh257 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1277
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: 124}
+        - {x: 91, y: 134}
+        - {x: 40, y: 257}
+        - {x: -27, y: 257}
+        - {x: -40, y: 244}
+        - {x: -40, y: 87}
+        - {x: -27, y: 0}
+        - {x: 44, y: 0}
+        - {x: 82, y: 37}
+        - {x: 128, y: 99}
+        - {x: 135, y: 109}
+    - name: vzad-vperyod_270kh257 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 117}
+        - {x: 34, y: 257}
+        - {x: -24, y: 257}
+        - {x: -40, y: 254}
+        - {x: -40, y: 0}
+        - {x: 59, y: 0}
+        - {x: 107, y: 15}
+        - {x: 135, y: 100}
+        - {x: 135, y: 124}
+        - {x: 91, y: 134}
+    - name: vzad-vperyod_270kh257 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 0}
+        - {x: 62, y: 0}
+        - {x: 86, y: 4}
+        - {x: 135, y: 100}
+        - {x: 135, y: 128}
+        - {x: 48, y: 142}
+    - name: vzad-vperyod_270kh257 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 127}
+        - {x: 71, y: 118}
+        - {x: 39, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 13}
+        - {x: -37, y: 0}
+        - {x: 67, y: 0}
+        - {x: 135, y: 101}
+        - {x: 135, y: 121}
+        - {x: 132, y: 128}
+    - name: vzad-vperyod_270kh257 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 257}
+        - {x: -40, y: 257}
+        - {x: -40, y: 0}
+        - {x: 47, y: 0}
+        - {x: 135, y: 103}
+        - {x: 135, y: 141}
+        - {x: 67, y: 143}
+    - name: vzad-vperyod_270kh257 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 127}
+        - {x: 72, y: 117}
+        - {x: 45, y: 92}
+        - {x: 45, y: 101}
+        - {x: 44, y: 245}
+        - {x: 15, y: 257}
+        - {x: -38, y: 257}
+        - {x: -41, y: 255}
+        - {x: -41, y: 51}
+        - {x: -23, y: 0}
+        - {x: 45, y: 0}
+        - {x: 135, y: 98}
+        - {x: 135, y: 123}
+        - {x: 132, y: 128}
+    - name: vzad-vperyod_270kh257 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 127}
+        - {x: 72, y: 117}
+        - {x: 45, y: 92}
+        - {x: 46, y: 100}
+        - {x: 45, y: 218}
+        - {x: 20, y: 257}
+        - {x: -39, y: 257}
+        - {x: -41, y: 252}
+        - {x: -41, y: 0}
+        - {x: 49, y: 0}
+        - {x: 85, y: 8}
+        - {x: 135, y: 104}
+        - {x: 135, y: 124}
+        - {x: 130, y: 125}
+    - name: vzad-vperyod_270kh257 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1020
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 257}
+        - {x: -41, y: 34}
+        - {x: -38, y: 0}
+        - {x: 54, y: 0}
+        - {x: 135, y: 96}
+        - {x: 135, y: 199}
+        - {x: 37, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 257}
+        - {x: -41, y: 75}
+        - {x: -21, y: 3}
+        - {x: -7, y: 0}
+        - {x: 39, y: 0}
+        - {x: 135, y: 48}
+        - {x: 135, y: 187}
+        - {x: 96, y: 257}
+    - name: vzad-vperyod_270kh257 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 763
+        width: 270
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 249}
+        - {x: 16, y: 257}
+        - {x: -31, y: 257}
+        - {x: -41, y: 241}
+        - {x: -41, y: 56}
+        - {x: -22, y: 0}
+        - {x: 50, y: 0}
+        - {x: 84, y: 10}
+        - {x: 135, y: 105}
+        - {x: 135, y: 166}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

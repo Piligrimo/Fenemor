@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 0b8b5a870ce8c404b93c7c5782ca2a8f
+timeCreated: 1461436309
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Druidl_270kh258_0
+    21300002: Druidl_270kh258_1
+    21300004: Druidl_270kh258_2
+    21300006: Druidl_270kh258_3
+    21300008: Druidl_270kh258_4
+    21300010: Druidl_270kh258_5
+    21300012: Druidl_270kh258_6
+    21300014: Druidl_270kh258_7
+    21300016: Druidl_270kh258_8
+    21300018: Druidl_270kh258_9
+    21300020: Druidl_270kh258_10
+    21300022: Druidl_270kh258_11
+    21300024: Druidl_270kh258_12
+    21300026: Druidl_270kh258_13
+    21300028: Druidl_270kh258_14
+    21300030: Druidl_270kh258_15
+    21300032: Druidl_270kh258_16
+    21300034: Druidl_270kh258_17
+    21300036: Druidl_270kh258_18
+    21300038: Druidl_270kh258_19
+    21300040: Druidl_270kh258_20
+    21300042: Druidl_270kh258_21
+    21300044: Druidl_270kh258_22
+    21300046: Druidl_270kh258_23
+    21300048: Druidl_270kh258_24
+    21300050: Druidl_270kh258_25
+    21300052: Druidl_270kh258_26
+    21300054: Druidl_270kh258_27
+    21300056: Druidl_270kh258_28
+    21300058: Druidl_270kh258_29
+    21300060: Druidl_270kh258_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Druidl_270kh258_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 35, y: 258}
+        - {x: -58, y: 258}
+        - {x: -82, y: 119}
+        - {x: -82, y: 80}
+        - {x: -42, y: 0}
+        - {x: 26, y: 0}
+        - {x: 128, y: 86}
+        - {x: 135, y: 113}
+        - {x: 135, y: 126}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 25, y: 255}
+        - {x: 22, y: 258}
+        - {x: -64, y: 258}
+        - {x: -82, y: 222}
+        - {x: -82, y: 19}
+        - {x: -48, y: 0}
+        - {x: 38, y: 0}
+        - {x: 135, y: 104}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 37, y: 219}
+        - {x: 17, y: 258}
+        - {x: -39, y: 258}
+        - {x: -56, y: 245}
+        - {x: -82, y: 129}
+        - {x: -82, y: 65}
+        - {x: -38, y: 0}
+        - {x: 24, y: 0}
+        - {x: 135, y: 72}
+        - {x: 135, y: 124}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 247}
+        - {x: 24, y: 258}
+        - {x: -82, y: 258}
+        - {x: -82, y: 44}
+        - {x: -33, y: 0}
+        - {x: 23, y: 0}
+        - {x: 28, y: 2}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 258}
+        - {x: -82, y: 258}
+        - {x: -82, y: 33}
+        - {x: -46, y: 0}
+        - {x: 38, y: 0}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 124}
+    - name: Druidl_270kh258_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 258}
+        - {x: -82, y: 104}
+        - {x: -82, y: 76}
+        - {x: -52, y: 2}
+        - {x: -43, y: 0}
+        - {x: 60, y: 0}
+        - {x: 135, y: 67}
+        - {x: 135, y: 203}
+        - {x: 109, y: 258}
+    - name: Druidl_270kh258_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1790
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 129}
+        - {x: 40, y: 242}
+        - {x: 18, y: 258}
+        - {x: -58, y: 258}
+        - {x: -83, y: 179}
+        - {x: -83, y: 40}
+        - {x: -47, y: 0}
+        - {x: 45, y: 0}
+        - {x: 135, y: 105}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 129}
+        - {x: 40, y: 242}
+        - {x: 18, y: 258}
+        - {x: -62, y: 258}
+        - {x: -83, y: 202}
+        - {x: -83, y: 42}
+        - {x: -28, y: 0}
+        - {x: 40, y: 0}
+        - {x: 135, y: 104}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 29, y: 258}
+        - {x: -64, y: 258}
+        - {x: -83, y: 180}
+        - {x: -83, y: 39}
+        - {x: -34, y: 6}
+        - {x: -23, y: 0}
+        - {x: 14, y: 0}
+        - {x: 28, y: 2}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 253}
+        - {x: 16, y: 258}
+        - {x: -59, y: 258}
+        - {x: -83, y: 180}
+        - {x: -83, y: 44}
+        - {x: -43, y: 0}
+        - {x: 28, y: 0}
+        - {x: 135, y: 70}
+        - {x: 135, y: 128}
+        - {x: 75, y: 132}
+    - name: Druidl_270kh258_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 29, y: 246}
+        - {x: 9, y: 258}
+        - {x: -43, y: 258}
+        - {x: -59, y: 211}
+        - {x: -83, y: 135}
+        - {x: -83, y: 53}
+        - {x: -52, y: 5}
+        - {x: -32, y: 0}
+        - {x: 24, y: 0}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 39, y: 218}
+        - {x: 19, y: 251}
+        - {x: 14, y: 258}
+        - {x: -64, y: 258}
+        - {x: -83, y: 216}
+        - {x: -83, y: 28}
+        - {x: -51, y: 4}
+        - {x: -34, y: 0}
+        - {x: 24, y: 0}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_12
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 40, y: 217}
+        - {x: 15, y: 258}
+        - {x: -39, y: 258}
+        - {x: -51, y: 228}
+        - {x: -43, y: 199}
+        - {x: -83, y: 101}
+        - {x: -83, y: 61}
+        - {x: -47, y: 0}
+        - {x: 31, y: 0}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_13
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1532
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 258}
+        - {x: -83, y: 186}
+        - {x: -83, y: 60}
+        - {x: -42, y: 0}
+        - {x: 61, y: 0}
+        - {x: 135, y: 46}
+        - {x: 135, y: 257}
+        - {x: 134, y: 258}
+    - name: Druidl_270kh258_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 258}
+        - {x: -84, y: 158}
+        - {x: -84, y: 79}
+        - {x: -72, y: 77}
+        - {x: -43, y: 10}
+        - {x: -23, y: 0}
+        - {x: 38, y: 0}
+        - {x: 135, y: 104}
+        - {x: 135, y: 192}
+        - {x: 70, y: 258}
+    - name: Druidl_270kh258_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 258}
+        - {x: -63, y: 246}
+        - {x: -84, y: 140}
+        - {x: -84, y: 57}
+        - {x: -52, y: 5}
+        - {x: -40, y: 0}
+        - {x: 44, y: 0}
+        - {x: 135, y: 71}
+        - {x: 135, y: 199}
+        - {x: 105, y: 258}
+    - name: Druidl_270kh258_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 35, y: 217}
+        - {x: 18, y: 258}
+        - {x: -39, y: 258}
+        - {x: -48, y: 240}
+        - {x: -47, y: 213}
+        - {x: -84, y: 112}
+        - {x: -84, y: 70}
+        - {x: -41, y: 0}
+        - {x: 38, y: 0}
+        - {x: 135, y: 104}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_17
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 40, y: 217}
+        - {x: 15, y: 258}
+        - {x: -39, y: 258}
+        - {x: -51, y: 228}
+        - {x: -43, y: 199}
+        - {x: -83, y: 101}
+        - {x: -83, y: 61}
+        - {x: -47, y: 0}
+        - {x: 31, y: 0}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 246}
+        - {x: 23, y: 258}
+        - {x: -83, y: 258}
+        - {x: -83, y: 23}
+        - {x: -45, y: 0}
+        - {x: 51, y: 0}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 42, y: 218}
+        - {x: 25, y: 256}
+        - {x: 13, y: 258}
+        - {x: -44, y: 258}
+        - {x: -51, y: 228}
+        - {x: -83, y: 131}
+        - {x: -83, y: 53}
+        - {x: -52, y: 5}
+        - {x: -39, y: 0}
+        - {x: 37, y: 0}
+        - {x: 135, y: 103}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_20
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1274
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 41, y: 218}
+        - {x: 17, y: 258}
+        - {x: -57, y: 258}
+        - {x: -83, y: 164}
+        - {x: -83, y: 52}
+        - {x: -34, y: 6}
+        - {x: -23, y: 0}
+        - {x: 14, y: 0}
+        - {x: 28, y: 2}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 27, y: 256}
+        - {x: 24, y: 258}
+        - {x: -63, y: 258}
+        - {x: -83, y: 197}
+        - {x: -83, y: 39}
+        - {x: -42, y: 11}
+        - {x: -25, y: 0}
+        - {x: 40, y: 0}
+        - {x: 135, y: 104}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 258}
+        - {x: -59, y: 258}
+        - {x: -83, y: 147}
+        - {x: -83, y: 51}
+        - {x: -34, y: 6}
+        - {x: -23, y: 0}
+        - {x: 14, y: 0}
+        - {x: 28, y: 2}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 124}
+    - name: Druidl_270kh258_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 117}
+        - {x: 42, y: 258}
+        - {x: -61, y: 258}
+        - {x: -83, y: 160}
+        - {x: -83, y: 55}
+        - {x: -53, y: 4}
+        - {x: -35, y: 0}
+        - {x: 53, y: 0}
+        - {x: 135, y: 102}
+        - {x: 135, y: 135}
+        - {x: 132, y: 138}
+    - name: Druidl_270kh258_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 26, y: 257}
+        - {x: 24, y: 258}
+        - {x: -61, y: 258}
+        - {x: -82, y: 186}
+        - {x: -82, y: 51}
+        - {x: -46, y: 0}
+        - {x: 46, y: 0}
+        - {x: 135, y: 105}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 30, y: 255}
+        - {x: 24, y: 258}
+        - {x: -62, y: 258}
+        - {x: -82, y: 204}
+        - {x: -82, y: 33}
+        - {x: -52, y: 2}
+        - {x: -43, y: 0}
+        - {x: 54, y: 0}
+        - {x: 135, y: 102}
+        - {x: 135, y: 125}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_26
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 258}
+        - {x: -41, y: 258}
+        - {x: -73, y: 208}
+        - {x: -82, y: 128}
+        - {x: -82, y: 34}
+        - {x: -51, y: 0}
+        - {x: 25, y: 0}
+        - {x: 131, y: 84}
+        - {x: 135, y: 96}
+        - {x: 135, y: 197}
+        - {x: 83, y: 234}
+    - name: Druidl_270kh258_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1016
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 21, y: 179}
+        - {x: 18, y: 182}
+        - {x: 28, y: 218}
+        - {x: 25, y: 252}
+        - {x: 20, y: 258}
+        - {x: -64, y: 258}
+        - {x: -82, y: 215}
+        - {x: -82, y: 23}
+        - {x: -54, y: 0}
+        - {x: 25, y: 0}
+        - {x: 135, y: 71}
+        - {x: 135, y: 123}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 26, y: 257}
+        - {x: 16, y: 258}
+        - {x: -41, y: 258}
+        - {x: -48, y: 243}
+        - {x: -49, y: 214}
+        - {x: -82, y: 133}
+        - {x: -82, y: 46}
+        - {x: -43, y: 0}
+        - {x: 24, y: 0}
+        - {x: 135, y: 72}
+        - {x: 135, y: 124}
+        - {x: 129, y: 128}
+    - name: Druidl_270kh258_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 758
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 128}
+        - {x: 78, y: 124}
+        - {x: 58, y: 110}
+        - {x: 30, y: 231}
+        - {x: 18, y: 250}
+        - {x: 6, y: 258}
+        - {x: -36, y: 258}
+        - {x: -60, y: 248}
+        - {x: -82, y: 101}
+        - {x: -82, y: 75}
+        - {x: -41, y: 0}
+        - {x: 24, y: 0}
+        - {x: 28, y: 3}
+        - {x: 122, y: 90}
+        - {x: 135, y: 115}
+        - {x: 135, y: 123}
+    - name: Druidl_270kh258_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 270
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
